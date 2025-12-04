@@ -11,7 +11,7 @@
   <table>
   <tr>
     <td align="center" width="200">
-      [![Wedrive](https://img.shields.io/badge/Wedrive-blue?style=for-the-badge)]()
+      <img src="https://img.shields.io/badge/Wedrive-blue?style=for-the-badge"/><br/>
       <b>위드라이브</b>
     </td>
   </tr>
