@@ -25,6 +25,7 @@
   
   **DEV CLUB F-THON 2회**
   - 2025.04 | **iOS Developer**, F-THON 2회 : LLM AI 모델을 활용한 현재 위치 근처 맛집 추천 앱
+
   **WWDC 2025 찍먹톤 (Let Us Go!)**  
   - 2025.07 | **iOS Developer**, WWDC25 찍먹톤 (Let Us Go!): Foundation Models + HealthKit–based fitness routine prototype (iOS)
 
