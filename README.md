@@ -16,6 +16,7 @@
     </td>
   </tr>
 </table>
+</div>
 
   ## Activites
   ### Hackathon
@@ -24,6 +25,4 @@
   **WWDC 2025 찍먹톤 (Let Us Go!)**  
   - 2025.07 | **iOS Developer**, WWDC25 찍먹톤 (Let Us Go!): Foundation Models + HealthKit–based fitness routine prototype (iOS)
   
-</div>
-
 
