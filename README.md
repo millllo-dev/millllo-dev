@@ -1,5 +1,5 @@
 
-<div align="left">
+<div align="center">
   
   ## JongChan Jeong
   ### iOS Developer
