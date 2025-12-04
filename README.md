@@ -19,7 +19,7 @@
 
 
 ## Activites
-<div align="leading">
+<div align="left">
   
   ### Hackathon
   **DEV CLUB F-THON 2회**
