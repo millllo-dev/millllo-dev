@@ -1,7 +1,11 @@
 
 <div align="center">
   
-  ## JongChan Jeong
+  ## 안녕하세요, milo입니다.
+  > 서비스를 유지보수하면서 **배터리 소모율 30% 개선**해본 개발자입니다.
+  > **Instruments**나 **Crashlytics**를 활용해 보다 더 안전한 서비스를 개발할 수 있도록 노력합니다.
+  > 최근에는 **Testable**한 코드 작성의 중요성을 깨닫고, TDD 기반 서비스 설계를 공부하고 지향하고 있어요!
+
   ### iOS Developer
   [![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jongchandev@gmail.com)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/millllo-dev)
